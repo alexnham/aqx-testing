@@ -4,7 +4,7 @@
   "description": "working on the ai voice assistant",
   "main": "server.js",
   "scripts": {
-    "test": "nodemon server.js",
+    "test": "node server.js",
     "start": "node server.js"
   },
   "author": "",
